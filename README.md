@@ -4,7 +4,7 @@ A social networking website that brings together dog owners, who do not have eno
 
 Take a Paws could be used for dog walking, taking care of the dog while the owner is on holiday, finding a dog for therapy or just find new friends who have dogs, all free of charge.
 
- [Setup](#Setup) | [Technologies](#Technologies) | [Approach](#Approach) | [Contributors](#Contributors) | [Screenshots](#App Screnshots) |
+ [Setup](#Setup) | [Technologies](#Technologies) | [Approach](#Approach) | [Contributors](#Contributors) | [App Screenshots](#App Screenshots) |
 
  # Setup
  - $ git clone https://github.com/majdeddine/take-a-paws
