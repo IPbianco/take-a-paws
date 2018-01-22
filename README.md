@@ -4,7 +4,7 @@ A social networking website that brings together dog owners, who do not have eno
 
 Take a Paws could be used for dog walking, taking care of the dog while the owner is on holiday, finding a dog for therapy or just find new friends who have dogs, all free of charge.
 
- [Setup](#Setup) | [Technologies](#Technologies) | [Approach](#Approach) | [Contributors](#Contributors) |
+ [Setup](#Setup) | [Technologies](#Technologies) | [Approach](#Approach) | [Contributors](#Contributors) |[Screenshots](#App Screnshots) |
 
  # Setup
  - $ git clone https://github.com/majdeddine/take-a-paws
@@ -23,10 +23,7 @@ Take a Paws could be used for dog walking, taking care of the dog while the owne
  - $ npm test -> for running the tests
 
  # Full Stack Javascript Technologies
- - React
- - Node
- - Socket.io for the chat
- - Mocha and Chai for testing
+ ![Homepage](/src/images/tech.jpg)
 
  # Approach
  Our Minimum Viable Product
@@ -57,31 +54,46 @@ Take a Paws could be used for dog walking, taking care of the dog while the owne
  I would like to log out from the website.
  ```
  Features implemented beyond MPV
- 
+
   ```
  As a user,
  So that I can show my love for dogs,
  I would like to be able to "paw" the dog I like.
- 
+
  As a dog owner,
  So that I can show my enthusiasm to dog lovers,
  I would like to be able to accept their "paw" requests.
- 
+
  As a user,
  So that I know which dogs lovers contact me,
  I would like to see the paws requests in my account page.
- 
+
  As a user,
  So that I know which dogs lovers contact me,
  I would like to see the paws requests in my account page.
- 
+
  As a user,
  So that I can dog lovers better,
  I would like to able to chat.
   ```
- 
+
  # Contributors
 - Gabriela Budeanu [@gabrielabud](https://github.com/gabrielabud)
 - Andrew Davey [@ajdavey8](https://github.com/ajdavey8)
 - Majdeddine Jebri [@majdeddine](https://github.com/majdeddine)
 - Ignacio Panebianco [@IPbianco](https://github.com/IPbianco)
+
+# App Screenshots
+
+## Home page
+![Homepage](/src/images/home.jpg)
+## Sign in
+![SignInForm](/src/images/sign.jpg)
+## Dog list
+![Doglist](/src/images/doglist.jpg)
+## Send Paw
+![Paw](/src/images/paw.jpg)
+## Chat request on user account
+![ChatRequest](/src/images/chatrequest.jpg)
+## Live Chat
+![LiveChat](/src/images/livechat.jpg)
