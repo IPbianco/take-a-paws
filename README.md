@@ -1,8 +1,12 @@
 ![Logo](/src/images/take-a-paws.svg)
+# Aims
+#### Technical
+- Learn new technologies and create Full Stack Javascript app
+- Create a WebSocket chat
 
-A social networking website that brings together dog owners, who do not have enough time for their dogs, with dog lovers who always wanted a dog friend, but can’t afford one or can only dedicate a limited time to it.
-
-Take a Paws could be used for dog walking, taking care of the dog while the owner is on holiday, finding a dog for therapy or just find new friends who have dogs, all free of charge.
+#### Product
+- A social networking website that brings together dog owners, who do not have enough time for their dogs, with dog lovers who always wanted a dog friend, but can’t afford one or can only dedicate a limited time to it.
+- Take a Paws could be used for dog walking, taking care of the dog while the owner is on holiday, finding a dog for therapy or just find new friends who have dogs, all free of charge.
 
  # Setup
  - $ git clone https://github.com/majdeddine/take-a-paws
